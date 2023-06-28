@@ -1,0 +1,4 @@
+name: Partix
+version: '${project.version}'
+main: me.x_tias.partix.Partix
+api-version: '1.20'
